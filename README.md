@@ -7,7 +7,6 @@ This project is a simple Amazon Clone, created for learning purposes.
 - [Description](#description)
 - [Features](#features)
 - [Setup](#setup)
-
 - [Live Demo](#live-demo)
 
 ## Description
