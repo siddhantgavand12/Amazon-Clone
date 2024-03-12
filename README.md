@@ -7,13 +7,10 @@ This project is a simple Amazon Clone, created for learning purposes.
 - [Description](#description)
 - [Features](#features)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
-The Amazon Clone project is a web application that replicates certain features of the Amazon website. It is built using HTML, CSS, and JavaScript.
+The Amazon Clone project is a web application that replicates certain features of the Amazon website. It is built using HTML, CSS.
 
 ## Features
 
