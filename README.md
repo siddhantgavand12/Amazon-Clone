@@ -29,6 +29,6 @@ The Amazon Clone project is a web application that replicates certain features o
    git clone https://github.com/your-username/Amazon-Clone.git
 
 ## Live Demo
-   ```bash
-    https://siddhantgavand12.github.io/Amazon-Clone/
+
+Explore the live demo of the Amazon Clone: [Amazon Clone Live Demo](https://siddhantgavand12.github.io/Amazon-Clone/)
 
