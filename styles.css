@@ -4,6 +4,9 @@
   border: border-box;
 }
 
+html{
+  scroll-behavior: smooth;
+}
 .navbar {
   height: 60px;
   background-color: #131921;
